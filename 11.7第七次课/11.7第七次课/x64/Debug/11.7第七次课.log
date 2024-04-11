@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\C++课堂\11.7第七次课\11.7第七次课\FileName.cpp(224,6): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C++课堂\11.7第七次课\11.7第七次课\FileName.cpp(225,6): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  11.7第七次课.vcxproj -> D:\C++课堂\11.7第七次课\x64\Debug\11.7第七次课.exe
